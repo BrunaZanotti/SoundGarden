@@ -27,8 +27,8 @@
 + Crud JavaScript
 
 ## <h1 align="left">Desenvolvedores</h1>
-[<img src="https://avatars.githubusercontent.com/u/105607930?v=4" width=115> <br> <sub>Bruna</sub>](https://github.com/BrunaZanotti) | [<img src="https://avatars.githubusercontent.com/u/64026100?v=4" width=115> <br> <sub>Leon</sub>](https://github.com/Leonkoc) | [<img src="https://media.licdn.com/dms/image/C4D03AQFnhuNLkMgjIQ/profile-displayphoto-shrink_200_200/0/1588107427975?e=1681948800&v=beta&t=R_O8gsQ0T6JMr9UV5TUcbcDggs2PcEr835e42GWbqTY" width=115> <br> <sub>Fábio</sub>](https://www.linkedin.com/in/f%C3%A1bio-diniz-99033915b/) |
-| :---: | :---: | :---: |
+[<img src="https://avatars.githubusercontent.com/u/105607930?v=4" width=115> <br> <sub>Bruna</sub>](https://github.com/BrunaZanotti) | [<img src="https://media.licdn.com/dms/image/C4D03AQFnhuNLkMgjIQ/profile-displayphoto-shrink_200_200/0/1588107427975?e=1681948800&v=beta&t=R_O8gsQ0T6JMr9UV5TUcbcDggs2PcEr835e42GWbqTY" width=115> <br> <sub>Fábio</sub>](https://www.linkedin.com/in/f%C3%A1bio-diniz-99033915b/) |
+| :---: | :---: 
 
 ## <h1 align="left">Tecnologias</h1>
 
